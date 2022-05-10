@@ -1,0 +1,27 @@
+{
+  "name": "bulk-recent",
+  "version": "1.0.0",
+  "description": "collect recent opts and run in bulk | 收集最近的调用，并批量处理",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build":"tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postor/bulk-recent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/postor/bulk-recent/issues"
+  },
+  "homepage": "https://github.com/postor/bulk-recent#readme",
+  "devDependencies": {
+    "@types/jest": "^27.5.0",
+    "jest": "^28.1.0",
+    "ts-jest": "^28.0.2",
+    "typescript": "^4.6.4"
+  }
+}
