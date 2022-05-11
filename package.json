@@ -2,10 +2,10 @@
   "name": "bulk-recent",
   "version": "1.0.0",
   "description": "collect recent opts and run in bulk | 收集最近的调用，并批量处理",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "jest",
-    "build":"tsc"
+    "build":"tsc -P tsconfig.build.json"
   },
   "repository": {
     "type": "git",
